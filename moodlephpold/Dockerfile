@@ -1,0 +1,5 @@
+FROM helder/php-5.3
+
+WORKDIR /
+
+EXPOSE 9000
